@@ -43,11 +43,11 @@ public class DatabaseConnect {
 
  
 
-	         Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/lulu",
+	         Connection connection = DriverManager.getConnection("MyPath",
 
  
 
-	             "root", "2017soma**&&//9482193");
+	             "root", "");
 
  
 
