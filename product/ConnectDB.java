@@ -67,7 +67,7 @@ public class ConnectDB  {
 
  
 
-         connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/lulu",
+         connection = DriverManager.getConnection("MyPath",
 
  
 
@@ -75,7 +75,7 @@ public class ConnectDB  {
 
  
 
-            "root", "2017soma**&&//9482193");
+            "root", "");
 
  
 
